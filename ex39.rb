@@ -67,3 +67,4 @@ city = cities['TX']
 city ||= 'Does not exist'
 puts "The city for the state 'TX' is: #{city}"
 
+# Check
